@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Todo List</string>
+    <string name="label_title">Adicionar Tarefa</string>
+    <string name="label_add_task">Adiciona uma tarefa</string>
+    <string name="label_text_task">Criar tarefa</string>
+    <string name="label_create_task">Escreva aqui sua tarefa</string>
 </resources>
